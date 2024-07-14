@@ -10,18 +10,6 @@ Each solution file is named after the corresponding problem number and contains 
 
 You can view my progress and stats on HDLBits [here](https://hdlbits.01xz.net/wiki/Special:VlgStats/7E9DBAD728D01D22).
 
-<p align="center"> <img src="verilog-logo.jpg" alt="Verilog Logo" /> </p>
-
-## 🤝 Contributing
-
-Feel free to contribute to this repository by adding your own solutions or suggesting improvements to the existing ones. To contribute, please follow these steps:
-
-1. Fork this repository.
-2. Create a new branch with your changes: `git checkout -b my-branch`.
-3. Commit your changes: `git commit -am 'Added solution for problem XYZ'`.
-4. Push to the branch: `git push origin my-branch`.
-5. Create a new pull request and explain your changes.
-
 ## 🙏 Acknowledgments
 
 Thanks to the HDLBits platform for providing a great resource for learning Digital Logic Design using Verilog HDL.
